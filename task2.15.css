@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.inline_block {
+    background-color: aquamarine;
+    display: inline-block;
+    width: 180px;
+    height: 85px;
+    margin: 15px 0 0 15px; 
+}
+
+.pink_block {
+    background-color: #faebd7;
+    width: 99%;
+    margin: 15px 7px 0 7px;
+}

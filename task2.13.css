@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.blue_box {
+    background-color: aqua;
+    width: 99%;
+    position: relative;
+    margin: 7px; 
+    border: 1px solid forestgreen;
+}
+
+.list {
+    background-color: bisque;
+    color: black;
+    width: 250px;
+    height: 80px;
+    position: absolute;
+}
+
+.list ul {
+    text-align: left;
+    padding: 10px 0 0 40px;
+}
+
+.text_block {
+    background-color: darkgray;
+    color: black ;
+    position: relative;
+    margin-left: 250px; 
+} 
+
+img {
+    float: right;
+    width: 45%;
+    height: 45%;
+   
+}
+
+.second_paragraph {
+    clear: both;
+}
+
+    

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.first_block {
+    background-color: green;
+    color: white;
+    margin: 15px auto;
+    width: 500px;
+}
+
+.second_block {
+    background-color: blue;
+    color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+}

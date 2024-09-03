@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.content {
+    background-color: blue;
+    color: white;
+    margin: 5px auto 0px auto;
+    max-width: 500px;
+    width: 100%;
+}
